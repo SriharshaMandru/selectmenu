@@ -40,6 +40,6 @@
 
 * Applied for each operation for the options and added event listener with click function to show the option clicked by user and hide the list, set toggle to the normal position. 
 
-<img src="selectmenu.png">
+<img src="outputimages/selectmenu.png">
 
 
